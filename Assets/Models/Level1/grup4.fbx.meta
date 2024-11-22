@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: 2feafd10068304b4b8b6d4c7749c93ef
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-0-zipzip
+    second: {fileID: 2800000, guid: a01ff349dcffd934d8a18eb321f76c53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-1-zipzip
+    second: {fileID: 2800000, guid: e63ed34240255e14087a49990663cde3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-10-zipzip
+    second: {fileID: 2800000, guid: 12ddf618886d9a649a700cf4202f5e57, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-100
+    second: {fileID: 2800000, guid: d7cc8e3c29a8fb64ea065bce947ada41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-101
+    second: {fileID: 2800000, guid: 2ae627ffbfa7f6140bb32df3f89a1092, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-102
+    second: {fileID: 2800000, guid: eb9d810d06a0033429fd3705ce0ad2e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-103
+    second: {fileID: 2800000, guid: 3b4ffc8220e2a1e41ad822816475f888, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-104
+    second: {fileID: 2800000, guid: 65a509a5a14416340b46aeac6696c66b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-105
+    second: {fileID: 2800000, guid: fe6c4b60f2260bf4b9c9c9d7aa1cfb1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-106
+    second: {fileID: 2800000, guid: 5e399fe995f72e44bbfcae31722dc39e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-107
+    second: {fileID: 2800000, guid: 18c9b57ea0500ec41b6eddc2c5494f8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-108
+    second: {fileID: 2800000, guid: 12570d57daf398043bca5c94ff9af9f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-109
+    second: {fileID: 2800000, guid: 2535cffaa7eab4843a96f26b72021437, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-11-zipzip
+    second: {fileID: 2800000, guid: 0712da1453ebff948b0302b535f86cbb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-110
+    second: {fileID: 2800000, guid: 4db7fcd5a8add4241a1942463f498331, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-111
+    second: {fileID: 2800000, guid: 4827b419b3cb4534bb58c285e06eb250, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-112
+    second: {fileID: 2800000, guid: 2684d358347d0974a978e0ba143a49fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-113
+    second: {fileID: 2800000, guid: 3195a1306548f0349bc98bf2b129eae4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-114
+    second: {fileID: 2800000, guid: 84001e3a34b78b24f90d143d45900db7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-115-okul
+    second: {fileID: 2800000, guid: cbfb424b9a5172e4d85a72a6343e5bde, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-116-ev 3
+    second: {fileID: 2800000, guid: 328126ef02b1f8c47b647fe09776932f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "Grup 4-117-\xE7esme"
+    second: {fileID: 2800000, guid: 0c709d2edcfa5da41aab24d892bcb966, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-118-zemin
+    second: {fileID: 2800000, guid: 5a43c479fe0ff1f45951beb75ec1a5d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-119
+    second: {fileID: 2800000, guid: 7234852d800373d469e9c6fc44596454, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-12-zipzip
+    second: {fileID: 2800000, guid: 19d35981fe85efb4382c4ab4a0f229b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-120
+    second: {fileID: 2800000, guid: 4bdabfce02c953a4e8b1b97e8864c41e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-121
+    second: {fileID: 2800000, guid: 19fe26cb452b4b540ade80807af33eb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-122
+    second: {fileID: 2800000, guid: 457716ef6841e734fb6ad3140cf15b37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-123
+    second: {fileID: 2800000, guid: 258887c770ce49840801aa664457ad45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-124
+    second: {fileID: 2800000, guid: 7ff46fe76b2446744a190576c73bb443, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-125
+    second: {fileID: 2800000, guid: 6300cc446c012824a9bdb36e25083125, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-126
+    second: {fileID: 2800000, guid: e4c7b6df58800bf4881743463f5f2e04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-127
+    second: {fileID: 2800000, guid: 8602a69c7c3ce6446a56e251b766cab8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-128
+    second: {fileID: 2800000, guid: e2c38274831f98245a4df2cd0647cf7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-129
+    second: {fileID: 2800000, guid: 276fa07b97516874795af759635b63ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-13-zipzip
+    second: {fileID: 2800000, guid: dc3259bb031f82647b0a491d74732beb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-130
+    second: {fileID: 2800000, guid: e01029c7f15bddf41a6bf499d1ff61b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-131
+    second: {fileID: 2800000, guid: 55ca24024b161754ca9e7197c86ffd7d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-132
+    second: {fileID: 2800000, guid: 31205050eda7965449db9cc154821425, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-133
+    second: {fileID: 2800000, guid: 46a3770484c42d84ea51c19c74676efc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-134
+    second: {fileID: 2800000, guid: 094e8c7bf4bd84f4b81055d82227e55c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-14-zipzip
+    second: {fileID: 2800000, guid: dda0feeee2bb03c4eba286d0f55a7dd9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-15-zipzip
+    second: {fileID: 2800000, guid: 31c940807780ba8449c95a45b089493b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-16-zipzip
+    second: {fileID: 2800000, guid: 1c2bc74c72c95444eb6d98d6faa59338, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-17-zipzip
+    second: {fileID: 2800000, guid: 286aa556b70359c4884d0008c74d768b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-18-zipzip
+    second: {fileID: 2800000, guid: 74b53fc59b820f540adad2c9df20388e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-19-zipzip
+    second: {fileID: 2800000, guid: 83fddc1052e8e43439cbddd2f7f9c285, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-2-zipzip
+    second: {fileID: 2800000, guid: 9547ae8e40d08694198a43d52552c16e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-20-zipzip
+    second: {fileID: 2800000, guid: 8da3a2938a1232c4c9880342bfb5f8a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-21-zipzip
+    second: {fileID: 2800000, guid: 46d0a1a2a0ec9bb46aabc5be27e03cef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-22-zipzip
+    second: {fileID: 2800000, guid: 4b512cc035757a94991c4e9b24f2688d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-23-zipzip
+    second: {fileID: 2800000, guid: db10c71a1aa59cf4cb4e8eb003894399, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-24-zipzip
+    second: {fileID: 2800000, guid: 06dd3833dde8060428efc6bcced0488e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-25-zipzip
+    second: {fileID: 2800000, guid: 47fa7257b98a6a14bb09e85743afa7bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-26-zipzip
+    second: {fileID: 2800000, guid: 9cc2702fe9800014cad9c476e974280b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-27-zipzip
+    second: {fileID: 2800000, guid: cd553e2b80f85ec4eaacedc549d70d1f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-28-zipzip
+    second: {fileID: 2800000, guid: a1ba983ec1ddda6479c58ee47d2cc271, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-29-zipzip
+    second: {fileID: 2800000, guid: 9ab67a643661fb84ea40454a0df501b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-3-zipzip
+    second: {fileID: 2800000, guid: 6b9059d93a26b6c4181e0344bab99783, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-30-zipzip
+    second: {fileID: 2800000, guid: 4f2b3867690bd0648936d725f71cae8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-31-zipzip
+    second: {fileID: 2800000, guid: 6e2b4cb74d8986a469c0d3f52c764dbc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-32-zipzip
+    second: {fileID: 2800000, guid: 1fec6e128d6b45c428b124a5fde7986c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-33-zipzip
+    second: {fileID: 2800000, guid: 448b597937f4b4346ba08d03be1cd9c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-34-zipzip
+    second: {fileID: 2800000, guid: 1095da6f50d6aac4cab2893b5608a3ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-35-zipzip
+    second: {fileID: 2800000, guid: 0d77f7c00496e174eb7779c6e68c58e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-36-zipzip
+    second: {fileID: 2800000, guid: 9ae01e3f56ab33f45a172c868abcf645, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-37-zipzip
+    second: {fileID: 2800000, guid: 1c057956a237ee248b77e71be31232f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-38-zipzip
+    second: {fileID: 2800000, guid: c6aa8ac6beaf5ef4ca313c0450879a56, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-39-zipzip
+    second: {fileID: 2800000, guid: db79f1b11201af845870479861e5d0a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-4-zipzip
+    second: {fileID: 2800000, guid: c94700959b87cdf46b8b561120518dac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-40-zipzip
+    second: {fileID: 2800000, guid: 08d2518fdbc5f694b9d6d1d0585064ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-41-zipzip
+    second: {fileID: 2800000, guid: 7aba6941df765df43a5c8569b4891464, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-42-zipzip
+    second: {fileID: 2800000, guid: a5f39c8f71342264d9f98515195f6dfe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-43-zipzip
+    second: {fileID: 2800000, guid: c62ab8d5e0a523340aae8426ffe07a1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-44-zipzip
+    second: {fileID: 2800000, guid: da4fe89653b48d04f80e98e9c280ac51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-45-zipzip
+    second: {fileID: 2800000, guid: ce9c0f55431ea624ea1a3a72473656dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-46-zipzip
+    second: {fileID: 2800000, guid: a2feb2f754a4e904296db57dee1ab8e9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-47-zipzip
+    second: {fileID: 2800000, guid: 0191f2d511ff74847ae1d0b58cd3346b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-48-zipzip
+    second: {fileID: 2800000, guid: 46cee2f8c8869c742b7ad3dd78cda106, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-49-zipzip
+    second: {fileID: 2800000, guid: d433ac00e2a069242a4e0d9742d3b2d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-5-zipzip
+    second: {fileID: 2800000, guid: bb199819aeb947944bcb546fdd964cd2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-50-zipzip
+    second: {fileID: 2800000, guid: 112c2124f2357f04a97a1e7ac80f8d7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-51-zipzip
+    second: {fileID: 2800000, guid: da3a3ccbaad6f5e4eb004d68d7cfac22, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-52-zipzip
+    second: {fileID: 2800000, guid: bda94577cfb14604680ba473a612ee04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-53-zipzip
+    second: {fileID: 2800000, guid: ac2bf12f8b442a8448df3e8fd5287d6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-54-zipzip
+    second: {fileID: 2800000, guid: b69608f326b16ef498a294e00ae1539e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-55-zipzip
+    second: {fileID: 2800000, guid: 0b060ab2d9185984a86e96ede19dbd8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-56-zipzip
+    second: {fileID: 2800000, guid: a2f8d884c76640e43ab281cab3ab2983, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-57-zipzip
+    second: {fileID: 2800000, guid: 10fbb355d515a774c8e168302a4e13e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-58-zipzip
+    second: {fileID: 2800000, guid: 1f19a9061ab826d4d83031c48182605a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-59-zipzip
+    second: {fileID: 2800000, guid: ade10697b383fc944a536a666bed84ea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-6-zipzip
+    second: {fileID: 2800000, guid: 6060b362817a97b4aaf01c16f52aa92e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-60-zipzip
+    second: {fileID: 2800000, guid: 06c83699787ec804e856ce8ef1c8817e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-61-zipzip
+    second: {fileID: 2800000, guid: 75a80062f57c7a841b16bf7effe024e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-62-zipzip
+    second: {fileID: 2800000, guid: bf58bcaaa6fe7b5429a74bfb1f3c1a14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-63-zipzip
+    second: {fileID: 2800000, guid: e2152f17c952e624c952c645f545ead8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-64-zipzip
+    second: {fileID: 2800000, guid: dfc9e211fa781b74087dad7ff0f0f460, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-65-zipzip
+    second: {fileID: 2800000, guid: 85d4e30df85c9f14ab7bacaf62103d55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-66-zipzip
+    second: {fileID: 2800000, guid: 734141712d375ac4ea969f2520ef8761, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-67-zipzip
+    second: {fileID: 2800000, guid: ba91716e89b4a6545a82739be7c6e28e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-68-zipzip
+    second: {fileID: 2800000, guid: b62880a12853b0542985f8f69f89b283, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-69-zipzip
+    second: {fileID: 2800000, guid: 6171f54d08da47a48b912081c74bcfcd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-7-zipzip
+    second: {fileID: 2800000, guid: bb6da39ba3ab06f4390463542a4643fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-70-zipzip
+    second: {fileID: 2800000, guid: 2328872190d57a145a161d1114dd81d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-71-zipzip
+    second: {fileID: 2800000, guid: 88f355a2af975dc42a433d4c1baf1356, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-72-zipzip
+    second: {fileID: 2800000, guid: 7ec5c79bbc841fc40a2a7079975aba8a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-73-zipzip
+    second: {fileID: 2800000, guid: 2218df990c5a4cb4bb45e561536e6609, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-74-zipzip
+    second: {fileID: 2800000, guid: c0c7b3a64f62a0d45823ab91b6ad30ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-75-zipzip
+    second: {fileID: 2800000, guid: eede8bee55b3a694c9432c7ac224c7d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-76-zipzip
+    second: {fileID: 2800000, guid: 789f33fc2f06ac64fa5f232f7da5d3c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-77-zipzip
+    second: {fileID: 2800000, guid: a382471f967b87b49854a888827945a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-78-zipzip
+    second: {fileID: 2800000, guid: f6ed92517d11a1e488dbcb3dc659c63e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-79-zipzip
+    second: {fileID: 2800000, guid: f7380f8240b387941bd6b07a923cb13d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-8-zipzip
+    second: {fileID: 2800000, guid: d38b90c83f63abb49aba23563b9590a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-80-zipzip
+    second: {fileID: 2800000, guid: 2b9026dfaed404546b9d0c76d2af676e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-81-zipzip
+    second: {fileID: 2800000, guid: 40570c13546699243986825807165a94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-82-zipzip
+    second: {fileID: 2800000, guid: 602503656cb1f974b861d43781e4fe82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-83-zipzip
+    second: {fileID: 2800000, guid: fb8b81b29a9d86f46a5d59ec49720ccc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-84-zipzip
+    second: {fileID: 2800000, guid: 503f7a0996131de4a8e0e4a4941195a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-85-zipzip
+    second: {fileID: 2800000, guid: 0c10470d1ede7c94e864dd3d442269b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-86-zipzip
+    second: {fileID: 2800000, guid: 4e6fecdf981225948b04e273acfae5c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-87-zipzip
+    second: {fileID: 2800000, guid: 4abcee80dd982044f89e2a9eec15a003, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-88-zipzip
+    second: {fileID: 2800000, guid: bceddece631c4604ead29e06b17975f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-89-zipzip
+    second: {fileID: 2800000, guid: c774d64fbfc8dbb4fac6427251923277, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-9-zipzip
+    second: {fileID: 2800000, guid: c50f885116f9e55498c0f820e07166e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-90-zipzip
+    second: {fileID: 2800000, guid: 5453c906257afc149aafd2782d6a794c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-91-zipzip
+    second: {fileID: 2800000, guid: de664f2bb8694a9478583afa53c4d1e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-92-zipzip
+    second: {fileID: 2800000, guid: 2dc12b1b9885d784fb2b384e0900963a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-93
+    second: {fileID: 2800000, guid: c8de23643a9d5ac409da723c977af7db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-94
+    second: {fileID: 2800000, guid: a68c914cd994dba40bc4a0bc8bbcdda7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-95
+    second: {fileID: 2800000, guid: e9e114643e503a14c82a38f2f05f8188, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-96
+    second: {fileID: 2800000, guid: 2e855124ed7af4c448b5d0f7fefc83ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-98
+    second: {fileID: 2800000, guid: 5378879df5ebaaf4f915d3d844c917da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grup 4-99
+    second: {fileID: 2800000, guid: 142627473bc1b534e9d93e9acef2c6f1, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
